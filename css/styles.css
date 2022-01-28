@@ -100,7 +100,9 @@ p>a:hover {
     width: 444px;
     height: 584px;
     border-radius: 5px;
-    margin: 123px auto;
+    margin-top: 123px;
+    margin-left:auto;
+    margin-right:auto;
     background-color:white ;
 }
 .green-cube {
